@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aniket Warkhedkar</h1>
 <h3 align="center">A passionate AI & ML developer from India</h3>
 
-- 🔭 I’m currently working on **AI emails spam detection**
+- 🔭 I’m currently working on **Python Coding Agent**
 
-- 🌱 I’m currently learning **TensorFlow, LLM, AWS**
+- 🌱 I’m currently learning **TensorFlow, LLM, AWS, Machine Learning, Gen AI, Deep Learning **
 
 - 👯 I’m looking to collaborate on **AI & ML related projects**
 
